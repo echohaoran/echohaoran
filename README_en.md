@@ -87,7 +87,7 @@
 
 - [![GitHub](https://img.shields.io/badge/GitHub-echohaoran-0a0a2e?style=for-the-badge&logo=github&labelColor=0a0a2e&color=00f7ff)](https://github.com/echohaoran)
 - [![Gitee](https://img.shields.io/badge/Gitee-echohaoran-0a0a2e?style=for-the-badge&logo=gitee&labelColor=0a0a2e&color=00ff88)](https://gitee.com/echohaoran)
-- [![Bilibili](https://img.shields.io/badge/Bilibili-EchoHaoran-0a0a2e?style=for-the-badge&logo=bilibili&labelColor=0a0a2e&color=ff00ff)](https://space.bilibili.com/)
+- [![Bilibili](https://img.shields.io/badge/Bilibili-EchoHaoran-0a0a2e?style=for-the-badge&logo=bilibili&labelColor=0a0a2e&color=ff00ff)](https://space.bilibili.com/数字ID)
 - [![Xiaohongshu](https://img.shields.io/badge/小红书-EchoHaoran-0a0a2e?style=for-the-badge&logo=xiaohongshu&labelColor=0a0a2e&color=00f7ff)]()
 - [![QQ](https://img.shields.io/badge/QQ-Contact-0a0a2e?style=for-the-badge&logo=tencentqq&labelColor=0a0a2e&color=ff00ff)]()
 - [![WeChat](https://img.shields.io/badge/WeChat-EchoHaoran-0a0a2e?style=for-the-badge&logo=wechat&labelColor=0a0a2e&color=00ff88)]()

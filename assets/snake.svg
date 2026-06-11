@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150" viewBox="0 0 600 150">
+  <rect width="600" height="150" fill="#0a0a2e"/>
+  <text x="300" y="80" font-family="monospace" font-size="16" fill="#00f7ff" text-anchor="middle" dominant-baseline="middle">⏳ Waiting for first workflow run...</text>
+  <text x="300" y="105" font-family="monospace" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">(Run "Generate Snake" action to generate)</text>
+</svg>

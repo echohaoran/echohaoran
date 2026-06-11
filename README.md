@@ -74,16 +74,6 @@
 
 <br/>
 
-## 🐍 贪吃蛇 — 吃掉你的贡献格子
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/echohaoran/echohaoran/main/assets/snake.svg)
-
-</div>
-
-<br/>
-
 ## 🌐 联系我
 
 <div align="center">

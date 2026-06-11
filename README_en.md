@@ -74,16 +74,6 @@
 
 <br/>
 
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/echohaoran/echohaoran/main/assets/snake.svg)
-
-</div>
-
-<br/>
-
 ## 🌐 CONNECT
 
 <div align="center">

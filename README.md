@@ -43,22 +43,29 @@
 <table>
   <tr>
     <td>![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0a0a2e&color=00f7ff)</td>
-    <td>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a2e&color=00f7ff)</td>
-    <td>![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0a0a2e&color=00ff88)</td>
-    <td>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a2e&color=00f7ff)</td>
-    <td>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a2e&color=ff00ff)</td>
-    <td>![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0a0a2e&color=00f7ff)</td>
+    <td>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0a2e&color=ff00ff)</td>
   </tr>
   <tr>
-    <td>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0a2e&color=ff00ff)</td>
+    <td>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a2e&color=00f7ff)</td>
     <td>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a2e&color=ff00ff)</td>
+  </tr>
+  <tr>
+    <td>![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0a0a2e&color=00ff88)</td>
     <td>![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=0a0a2e&color=ff00ff)</td>
+  </tr>
+  <tr>
+    <td>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a2e&color=00f7ff)</td>
     <td>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a2e&color=00ff88)</td>
+  </tr>
+  <tr>
+    <td>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a2e&color=ff00ff)</td>
     <td>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a2e&color=00ff88)</td>
   </tr>
+  <tr>
+    <td>![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0a0a2e&color=00f7ff)</td>
+    <td></td>
+  </tr>
 </table>
-
-<br/>
 
 <br/>
 

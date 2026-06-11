@@ -71,26 +71,30 @@
 
 ## 📊 GitHub 数据
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=echohaoran&show_icons=true&count_private=true&hide_border=true&title_color=00f7ff&text_color=e0e0e0&icon_color=ff00ff&bg_color=0a0a2e" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=echohaoran&hide_border=true&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff&sideLabels=e0e0e0&dates=888888&background=0a0a2e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=echohaoran&show_icons=true&count_private=true&hide_border=true&title_color=00f7ff&text_color=e0e0e0&icon_color=ff00ff&bg_color=0a0a2e" />
 
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=echohaoran&hide_border=true&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff&sideLabels=e0e0e0&dates=888888&background=0a0a2e" />
+
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echohaoran&layout=compact&hide_border=true&title_color=00f7ff&text_color=e0e0e0&bg_color=0a0a2e" width="40%" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echohaoran&layout=compact&hide_border=true&title_color=00f7ff&text_color=e0e0e0&bg_color=0a0a2e" />
 
 <br/>
 
 ## 🌐 联系我
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📬_whr2211204@outlook.com-0a0a2e?style=for-the-badge&labelColor=0a0a2e&color=ff00ff)](mailto:whr2211204@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-echohaoran-0a0a2e?style=for-the-badge&logo=github&labelColor=0a0a2e&color=00f7ff)](https://github.com/echohaoran)
+- [![GitHub](https://img.shields.io/badge/GitHub-echohaoran-0a0a2e?style=for-the-badge&logo=github&labelColor=0a0a2e&color=00f7ff)](https://github.com/echohaoran)
+- [![Gitee](https://img.shields.io/badge/Gitee-echohaoran-0a0a2e?style=for-the-badge&logo=gitee&labelColor=0a0a2e&color=00ff88)](https://gitee.com/echohaoran)
+- [![Bilibili](https://img.shields.io/badge/Bilibili-EchoHaoran-0a0a2e?style=for-the-badge&logo=bilibili&labelColor=0a0a2e&color=ff00ff)](https://space.bilibili.com/)
+- [![小红书](https://img.shields.io/badge/小红书-EchoHaoran-0a0a2e?style=for-the-badge&logo=xiaohongshu&labelColor=0a0a2e&color=00f7ff)]()
+- [![QQ](https://img.shields.io/badge/QQ-联系我-0a0a2e?style=for-the-badge&logo=tencentqq&labelColor=0a0a2e&color=ff00ff)]()
+- [![微信](https://img.shields.io/badge/微信-EchoHaoran-0a0a2e?style=for-the-badge&logo=wechat&labelColor=0a0a2e&color=00ff88)]()
+- [![Gmail](https://img.shields.io/badge/Gmail-whr2211204-0a0a2e?style=for-the-badge&logo=gmail&labelColor=0a0a2e&color=00f7ff)](mailto:whr2211204@gmail.com)
+- [![Telegram](https://img.shields.io/badge/Telegram-echohaoran-0a0a2e?style=for-the-badge&logo=telegram&labelColor=0a0a2e&color=ff00ff)](https://t.me/echohaoran)
+- [![Discord](https://img.shields.io/badge/Discord-echohaoran-0a0a2e?style=for-the-badge&logo=discord&labelColor=0a0a2e&color=00ff88)]()
+- [![Blog](https://img.shields.io/badge/Blog-echohaoran.blog-0a0a2e?style=for-the-badge&logo=githubpages&labelColor=0a0a2e&color=00f7ff)]()
 
 <br/>
 
@@ -103,13 +107,8 @@
 
 <br/>
 
-<a href="https://github.com/echohaoran/echohaoran/blob/main/README_en.md">
-  <img src="https://img.shields.io/badge/🌏_English_Version-0a0a2e?style=for-the-badge&labelColor=0a0a2e&color=00f7ff" />
-</a>
+- [![English Version](https://img.shields.io/badge/🌏_English_Version-0a0a2e?style=for-the-badge&labelColor=0a0a2e&color=00f7ff)](https://github.com/echohaoran/echohaoran/blob/main/README_en.md)
 
 <br/>
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=echohaoran&style=for-the-badge&color=00f7ff&label=◈+访客计数+◈" />
-
-</div>
+- ![Visitors](https://komarev.com/ghpvc/?username=echohaoran&style=for-the-badge&color=00f7ff&label=◈+访客计数+◈)

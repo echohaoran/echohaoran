@@ -15,30 +15,30 @@
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  🚀  全栈工程师  │  ☸  云原生  │  🦀  RUSTACEAN  │
+│  🚀  FULL-STACK ENGINEER  │  ☸  CLOUD NATIVE  │  🦀  │
 └─────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-<!-- 语言切换 -->
-<a href="https://github.com/echohaoran/echohaoran/blob/main/README_en.md">
-  <img src="https://img.shields.io/badge/🌏_English_Version-0a0a2e?style=for-the-badge&labelColor=0a0a2e&color=00f7ff" />
+<!-- Language switch -->
+<a href="https://github.com/echohaoran/echohaoran/blob/main/README.md">
+  <img src="https://img.shields.io/badge/🌏_中文版-0a0a2e?style=for-the-badge&labelColor=0a0a2e&color=00f7ff" />
 </a>
 
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=00F7FF&center=true&vCenter=true&width=480&lines=你好+%F0%9F%91%8B，我是+Echo+Haoran;Go+%26+React+%26+Python+%3C%2F%3E;Docker+%26+云原生+爱好者;开源社区+布道者;猫奴+%F0%9F%90%B1;永远在+Hack+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=00F7FF&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+Echo+Haoran;Go+%26+React+%26+Python+%3C%2F%3E;Docker+%26+Cloud+Devotee;Open+Source+Enthusiast;Cat+Person+%F0%9F%90%B1;Always+Hacking+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- 霓虹分割线 -->
+<!-- Neon divider -->
 <img src="https://raw.githubusercontent.com/echohaoran/echohaoran/main/assets/divider.svg" width="100%" />
 
 </div>
 
-## ⚡ 技术栈
+## ⚡ TECH STACK
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 <br/>
 
-## 📊 GitHub 数据
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 <br/>
 
-## 🐍 贪吃蛇 — 吃掉你的贡献格子
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 <br/>
 
-## 🌐 联系我
+## 🌐 CONNECT
 
 <div align="center">
 
@@ -95,20 +95,20 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  "先解决问题，再写代码。"                               ║
-║                                — 约翰·约翰逊            ║
+║  "First, solve the problem. Then, write the code."      ║
+║                                     — John Johnson       ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<a href="https://github.com/echohaoran/echohaoran/blob/main/README_en.md">
-  <img src="https://img.shields.io/badge/🌏_English_Version-0a0a2e?style=for-the-badge&labelColor=0a0a2e&color=00f7ff" />
+<a href="https://github.com/echohaoran/echohaoran/blob/main/README.md">
+  <img src="https://img.shields.io/badge/🌏_中文版-0a0a2e?style=for-the-badge&labelColor=0a0a2e&color=00f7ff" />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=echohaoran&style=for-the-badge&color=00f7ff&label=◈+访客计数+◈" />
+<img src="https://komarev.com/ghpvc/?username=echohaoran&style=for-the-badge&color=00f7ff&label=◈+DIGITAL+VISITORS+◈" />
 
 </div>

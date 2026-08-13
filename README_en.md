@@ -35,14 +35,6 @@
 
 </div>
 
-## 🎒 Begging Gear
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,rust,python,react,vue,nodejs,astro,docker,kubernetes,linux,git,github,postgres,redis,nginx,bash,neovim,vscode&theme=dark&perline=10" alt="Tech Stack" />
-</p>
-
-<br/>
-
 ## 📊 Begging Record
 
 <div align="center">
@@ -87,6 +79,7 @@
 - [![Blog](https://img.shields.io/badge/Blog-blog.echohaoran.top-0a0a2e?style=for-the-badge&logo=githubpages&labelColor=0a0a2e&color=00f7ff)](https://blog.echohaoran.top)
 - [![Telegram](https://img.shields.io/badge/Telegram-echohaoran-0a0a2e?style=for-the-badge&logo=telegram&labelColor=0a0a2e&color=ff00ff)](https://t.me/echohaoran)
 - [![Gmail](https://img.shields.io/badge/Gmail-whr2211204-0a0a2e?style=for-the-badge&logo=gmail&labelColor=0a0a2e&color=00f7ff)](mailto:whr2211204@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-echohaoran-0a0a2e?style=for-the-badge&logo=gmail&labelColor=0a0a2e&color=ff00ff)](mailto:echohaoran@gmail.com)
 
 <br/>
 

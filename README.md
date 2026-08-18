@@ -53,18 +53,7 @@
 
 <br/>
 
-## 📌 Alms Collected
 
-| Project | Description | Language |
-| --- | --- | --- |
-| [AI-AGENT-Skills](https://github.com/echohaoran/AI-AGENT-Skills) | Common Skills for AI AGENTs | TypeScript |
-| [Chaos_Builder](https://github.com/echohaoran/Chaos_Builder) | Text-to-graph / graph-to-graph / multi-graph web app | HTML |
-| [DeepSeek-Reasonix](https://github.com/echohaoran/DeepSeek-Reasonix) | DeepSeek-native AI coding agent for your terminal | Go |
-| [cc-switch-cli](https://github.com/echohaoran/cc-switch-cli) | Cross-platform CLI All-in-One assistant for Claude Code / Codex / Gemini CLI | Rust |
-| [my-blog](https://github.com/echohaoran/my-blog) | Personal blog | Astro |
-| [touchpad-gesture-customization](https://github.com/echohaoran/touchpad-gesture-customization) | GNOME Wayland touchpad gesture customization extension | TypeScript |
-
-<br/>
 
 ## 📮 Almsgiving Channels
 

@@ -20,9 +20,13 @@
 
 <div align="center">
 
-| [**博客**](https://blog.echohaoran.top) | [**导航页**](https://echohaoran.top) | [**新闻**](https://news.echohaoran.top) | [**X**](https://x.com/echohaoran_1130) |
-| :---: | :---: | :---: | :---: |
-| blog.echohaoran.top | echohaoran.top | news.echohaoran.top | @echohaoran_1130 |
+[博客](https://blog.echohaoran.top)
+
+[导航页](https://echohaoran.top)
+
+[新闻](https://news.echohaoran.top)
+
+[X](https://x.com/echohaoran_1130)
 
 </div>
 
@@ -30,13 +34,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,js,rust,python,react,vue,nodejs,astro,docker,kubernetes,linux,git,github,postgres,redis,nginx,bash,neovim,vscode&theme=dark&perline=10" alt="技术栈" />
-</p>
-
-## 数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=echohaoran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub 统计" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echohaoran&layout=compact&theme=tokyonight&hide_border=true" alt="常用语言" height="160" />
 </p>
 
 ## 讨饭蛇

@@ -20,9 +20,13 @@ I build AI agents, CLIs, and the occasional desktop toy — then go begging for 
 
 <div align="center">
 
-| [**Blog**](https://blog.echohaoran.top) | [**Home**](https://echohaoran.top) | [**News**](https://news.echohaoran.top) | [**X**](https://x.com/echohaoran_1130) |
-| :---: | :---: | :---: | :---: |
-| blog.echohaoran.top | echohaoran.top | news.echohaoran.top | @echohaoran_1130 |
+[Blog](https://blog.echohaoran.top)
+
+[Home](https://echohaoran.top)
+
+[News](https://news.echohaoran.top)
+
+[X](https://x.com/echohaoran_1130)
 
 </div>
 
@@ -30,13 +34,6 @@ I build AI agents, CLIs, and the occasional desktop toy — then go begging for 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,js,rust,python,react,vue,nodejs,astro,docker,kubernetes,linux,git,github,postgres,redis,nginx,bash,neovim,vscode&theme=dark&perline=10" alt="Tech stack" />
-</p>
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=echohaoran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echohaoran&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
 </p>
 
 ## The Snake

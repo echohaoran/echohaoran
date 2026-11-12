@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="150" viewBox="0 0 850 150" role="img" aria-label="Echo Haoran">
+  <defs>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
+  </defs>
+  <text x="425" y="72" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#title)" letter-spacing="10">ECHO HAORAN</text>
+  <text x="425" y="108" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="14" fill="#8b949e" letter-spacing="4">开源叫花子  ·  全栈  ·  AI 工具</text>
+  <rect x="285" y="128" width="280" height="2" rx="1" fill="url(#title)" opacity="0.55"/>
+</svg>

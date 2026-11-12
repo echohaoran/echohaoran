@@ -1,86 +1,66 @@
 <div align="center">
 
-```
-███████╗ ██████╗██╗  ██╗ ██████╗     ██╗  ██╗ █████╗  ██████╗ ██████╗  █████╗ ███╗   ██╗
-██╔════╝██╔════╝██║  ██║██╔═══██╗    ██║  ██║██╔══██╗██╔═══██╗██╔══██╗██╔══██╗████╗  ██║
-█████╗  ██║     ███████║██║   ██║    ███████║███████║██║   ██║██████╔╝███████║██╔██╗ ██║
-██╔══╝  ██║     ██╔══██║██║   ██║    ██╔══██║██╔══██║██║   ██║██╔══██╗██╔══██║██║╚██╗██║
-███████╗╚██████╗██║  ██║╚██████╔╝    ██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║██║ ╚████║
-╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img src="assets/header.svg" alt="Echo Haoran" width="850" />
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I%27m+Echo+Haoran;A+true+master+always+has+the+heart+of+an+apprentice;Open+source+beggar+%C2%B7+always+hacking;Kind+folks%2C+spare+a+Star+%E2%AD%90)](https://github.com/echohaoran)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=00F7FF&center=true&vCenter=true&width=520&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20Echo%20Haoran;Open%20source%20beggar%2C%20begging%20online%20%F0%9F%A5%A3;Kind%20folks%2C%20spare%20a%20Star%20%E2%AD%90%3F;PR%20alms%20welcome%20too%20%F0%9F%99%8F;AI%20busking%2C%20full-stack%20begging;Cat%20lover%20%F0%9F%90%B1%20%28cats%20eat%20too%29;Always%20Hacking%20%F0%9F%92%BB)](https://git.io/typing-svg)
+<a href="https://github.com/echohaoran/echohaoran/blob/main/README.md">English</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/echohaoran/echohaoran/blob/main/README_cn.md">中文</a>
 
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│  🥣  Open Source Beggar  │  ⭐  Star Begging  │  🙏  PR Alms  │  🎨  AI Busking │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<!-- Language switch -->
-<a href="https://github.com/echohaoran/echohaoran/blob/main/README_cn.md">
-  <img src="https://img.shields.io/badge/🌏_中文版-0a0a2e?style=for-the-badge&labelColor=0a0a2e&color=00f7ff" />
-</a>
-
-<br/>
-
-<!-- Neon divider -->
-<img src="assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-## 🎒 Begging Gear
+I build AI agents, CLIs, and the occasional desktop toy — then go begging for Stars like it's honest work. Cat person. Cats eat too.
+
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,rust,python,react,vue,nodejs,astro,docker,kubernetes,linux,git,github,postgres,redis,nginx,bash,neovim,vscode&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,rust,python,react,vue,nodejs,astro,docker,kubernetes,linux,git,github,postgres,redis,nginx,bash,neovim,vscode&theme=dark&perline=10" alt="Tech stack" />
 </p>
 
-<br/>
+## Selected Work
 
-## 🐍 Begging Snake
+| Project | What it is |
+| --- | --- |
+| [DeepSeek-Reasonix](https://github.com/echohaoran/DeepSeek-Reasonix) | DeepSeek-native terminal AI coding agent |
+| [cc-switch-cli](https://github.com/echohaoran/cc-switch-cli) | Cross-platform helper for Claude Code / Codex / Gemini CLI |
+| [AI-AGENT-Skills](https://github.com/echohaoran/AI-AGENT-Skills) | Common skills for AI agents |
+| [Chaos_Builder](https://github.com/echohaoran/Chaos_Builder) | Text-to-graphic / graphic-to-graphic web app |
+| [touchpad-gesture-customization](https://github.com/echohaoran/touchpad-gesture-customization) | GNOME Wayland touchpad gesture extension |
+| [my-blog](https://github.com/echohaoran/my-blog) | Personal blog |
+
+## Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/echohaoran/echohaoran/output/github-snake-dark.svg" alt="Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=echohaoran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echohaoran&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
 </p>
 
-<p align="center"><sub>🔄 Auto-updated daily · No days off from begging</sub></p>
-
-<br/>
-
-
-
-## 📮 Almsgiving Channels
-
-- [![GitHub](https://img.shields.io/badge/GitHub-echohaoran-0a0a2e?style=for-the-badge&logo=github&labelColor=0a0a2e&color=00f7ff)](https://github.com/echohaoran)
-- [![Gitee](https://img.shields.io/badge/Gitee-echohaoran-0a0a2e?style=for-the-badge&logo=gitee&labelColor=0a0a2e&color=00ff88)](https://gitee.com/echohaoran)
-- [![Blog](https://img.shields.io/badge/Blog-blog.echohaoran.top-0a0a2e?style=for-the-badge&logo=githubpages&labelColor=0a0a2e&color=00f7ff)](https://blog.echohaoran.top)
-- [![Telegram](https://img.shields.io/badge/Telegram-echohaoran-0a0a2e?style=for-the-badge&logo=telegram&labelColor=0a0a2e&color=ff00ff)](https://t.me/echohaoran)
-- [![Gmail](https://img.shields.io/badge/Gmail-whr2211204-0a0a2e?style=for-the-badge&logo=gmail&labelColor=0a0a2e&color=00f7ff)](mailto:whr2211204@gmail.com)
-- [![Gmail](https://img.shields.io/badge/Gmail-echohaoran-0a0a2e?style=for-the-badge&logo=gmail&labelColor=0a0a2e&color=ff00ff)](mailto:echohaoran@gmail.com)
-
-<br/>
-
-## 💬 Begging Wisdom
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════╗
-║  "Spare a Star, kind soul. 🙏"                     ║
-║                      — Echo Haoran (begging)       ║
-╚════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
+## The Snake
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=echohaoran&style=for-the-badge&color=00f7ff&label=◈+Onlookers+◈" />
+  <img src="https://raw.githubusercontent.com/echohaoran/echohaoran/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
+
+<p align="center"><sub>Updates daily. No days off from begging.</sub></p>
+
+## Find Me
+
+<p align="center">
+  <a href="https://github.com/echohaoran"><img src="https://img.shields.io/badge/GitHub-echohaoran-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://gitee.com/echohaoran"><img src="https://img.shields.io/badge/Gitee-echohaoran-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee" /></a>
+  <a href="https://blog.echohaoran.top"><img src="https://img.shields.io/badge/Blog-blog.echohaoran.top-7AA2F7?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" /></a>
+  <a href="https://t.me/echohaoran"><img src="https://img.shields.io/badge/Telegram-echohaoran-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:echohaoran@gmail.com"><img src="https://img.shields.io/badge/Gmail-echohaoran-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:whr2211204@gmail.com"><img src="https://img.shields.io/badge/Gmail-whr2211204-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=echohaoran&style=flat-square&color=7aa2f7&label=profile+views" alt="Profile views" />
+</p>
+
+<blockquote>
+<p align="center"><i>"Spare a Star, kind soul."</i> — Echo Haoran, still begging</p>
+</blockquote>

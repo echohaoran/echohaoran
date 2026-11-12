@@ -82,7 +82,7 @@ Forward Deployed Engineer。把模型、Agent 和自动化嵌进真实业务；A
       <a href="mailto:echohaoran@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
     </td>
     <td align="center">
-      <a href="mailto:whr2211204@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+      <a href="mailto:whr2211204@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
     </td>
   </tr>
 </table>

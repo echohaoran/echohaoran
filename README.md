@@ -23,15 +23,15 @@
 
 <img src="assets/header.svg" alt="Echo Haoran" width="850" />
 
-<sub>开源叫花子&nbsp;&nbsp;//&nbsp;&nbsp;全栈&nbsp;&nbsp;//&nbsp;&nbsp;AI 工具</sub>
+<sub>FDE 专家&nbsp;&nbsp;//&nbsp;&nbsp;AIOps 专家</sub>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=560&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Echo%20Haoran;%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%A7%E5%B8%88%EF%BC%8C%E6%B0%B8%E8%BF%9C%E9%83%BD%E6%9C%89%E4%B8%80%E9%A2%97%E5%AD%A6%E5%BE%92%E7%9A%84%E5%BF%83;%E5%BC%80%E6%BA%90%E5%8F%AB%E8%8A%B1%E5%AD%90%20%2F%2F%20%E6%B0%B8%E8%BF%9C%E5%9C%A8%20Hack;%E8%A1%8C%E8%A1%8C%E5%A5%BD%EF%BC%8C%E8%B5%8F%E4%B8%AA%20Star)](https://github.com/echohaoran)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=560&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Echo%20Haoran%3BFDE%20%E4%B8%93%E5%AE%B6%20%C2%B7%20%E6%8A%8A%20AI%20%E9%80%81%E8%BF%9B%E7%94%9F%E4%BA%A7%3BAIOps%20%E4%B8%93%E5%AE%B6%20%C2%B7%20%E5%91%8A%E8%AD%A6%E5%88%B0%E9%97%AD%E7%8E%AF%3B%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%A7%E5%B8%88%EF%BC%8C%E6%B0%B8%E8%BF%9C%E9%83%BD%E6%9C%89%E4%B8%80%E9%A2%97%E5%AD%A6%E5%BE%92%E7%9A%84%E5%BF%83)](https://github.com/echohaoran)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-写 AI agent、写 CLI、偶尔做点桌面小玩具 —— 然后像正经工作一样出门讨 Star。猫奴。猫也要吃饭。
+Forward Deployed Engineer。把模型、Agent 和自动化嵌进真实业务；AIOps 这条线负责可观测、告警和故障闭环。猫奴。
 
 ## 系统
 
@@ -60,13 +60,13 @@
   <img src="https://skillicons.dev/icons?i=go,ts,js,rust,python,react,vue,nodejs,astro,docker,kubernetes,linux,git,github,postgres,redis,nginx,bash,neovim,vscode&theme=dark&perline=10" alt="技术栈" />
 </p>
 
-## 讨饭蛇
+## 贡献
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/echohaoran/echohaoran/output/github-snake-dark.svg" alt="贡献蛇" />
 </p>
 
-<p align="center"><sub>每天自动更新 // 讨饭不偷懒</sub></p>
+<p align="center"><sub>每天自动更新</sub></p>
 
 ## 找到我
 
@@ -115,5 +115,5 @@
 </p>
 
 <blockquote>
-<p align="center"><i>「行行好，赏个 Star 吧，好人一生平安。」</i><br/>— Echo Haoran // 行乞中</p>
+<p align="center"><i>「真正的大师，永远都有一颗学徒的心。」</i><br/>— Echo Haoran // FDE · AIOps</p>
 </blockquote>

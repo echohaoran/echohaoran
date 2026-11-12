@@ -12,25 +12,11 @@
 
 写 AI agent、写 CLI、偶尔做点桌面小玩具 —— 然后像正经工作一样出门讨 Star。猫奴。猫也要吃饭。
 
-## 导航
+## 系统
 
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://blog.echohaoran.top"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-00F7FF?style=for-the-badge&logo=rss&logoColor=0a0a2e" alt="博客" /></a>
-    </td>
-    <td align="center">
-      <a href="https://echohaoran.top"><img src="https://img.shields.io/badge/%E5%AF%BC%E8%88%AA%E9%A1%B5-BB9AF7?style=for-the-badge&logo=googlechrome&logoColor=0a0a2e" alt="导航页" /></a>
-    </td>
-    <td align="center">
-      <a href="https://news.echohaoran.top"><img src="https://img.shields.io/badge/%E6%96%B0%E9%97%BB-7DCFFF?style=for-the-badge&logo=googlenews&logoColor=0a0a2e" alt="新闻" /></a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/echohaoran_1130"><img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=0a0a2e" alt="X" /></a>
-    </td>
-  </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></td>
     <td align="center"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" /></td>
@@ -63,13 +49,45 @@
 
 ## 找到我
 
-<p align="center">
-  <a href="https://github.com/echohaoran"><img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=0a0a2e" alt="GitHub" /></a>
-  <a href="https://gitee.com/echohaoran"><img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee" /></a>
-  <a href="https://t.me/echohaoran"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:echohaoran@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="mailto:whr2211204@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://blog.echohaoran.top"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-00F7FF?style=for-the-badge&logo=rss&logoColor=0a0a2e" alt="博客" /></a>
+    </td>
+    <td align="center">
+      <a href="https://echohaoran.top"><img src="https://img.shields.io/badge/%E5%AF%BC%E8%88%AA%E9%A1%B5-BB9AF7?style=for-the-badge&logo=googlechrome&logoColor=0a0a2e" alt="导航页" /></a>
+    </td>
+    <td align="center">
+      <a href="https://news.echohaoran.top"><img src="https://img.shields.io/badge/%E6%96%B0%E9%97%BB-7DCFFF?style=for-the-badge&logo=googlenews&logoColor=0a0a2e" alt="新闻" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://x.com/echohaoran_1130"><img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=0a0a2e" alt="X" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/echohaoran"><img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=0a0a2e" alt="GitHub" /></a>
+    </td>
+    <td align="center">
+      <a href="https://gitee.com/echohaoran"><img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://t.me/echohaoran"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    </td>
+    <td align="center">
+      <a href="mailto:echohaoran@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    </td>
+    <td align="center">
+      <a href="mailto:whr2211204@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=echohaoran&style=for-the-badge&color=00f7ff&label=VISITORS" alt="主页访问" />

@@ -16,22 +16,21 @@
 
 I build AI agents, CLIs, and the occasional desktop toy — then go begging for Stars like it's honest work. Cat person. Cats eat too.
 
+## Navigate
+
+<div align="center">
+
+| [**Blog**](https://blog.echohaoran.top) | [**Home**](https://echohaoran.top) | [**News**](https://news.echohaoran.top) | [**X**](https://x.com/echohaoran_1130) |
+| :---: | :---: | :---: | :---: |
+| blog.echohaoran.top | echohaoran.top | news.echohaoran.top | @echohaoran_1130 |
+
+</div>
+
 ## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,js,rust,python,react,vue,nodejs,astro,docker,kubernetes,linux,git,github,postgres,redis,nginx,bash,neovim,vscode&theme=dark&perline=10" alt="Tech stack" />
 </p>
-
-## Selected Work
-
-| Project | What it is |
-| --- | --- |
-| [DeepSeek-Reasonix](https://github.com/echohaoran/DeepSeek-Reasonix) | DeepSeek-native terminal AI coding agent |
-| [cc-switch-cli](https://github.com/echohaoran/cc-switch-cli) | Cross-platform helper for Claude Code / Codex / Gemini CLI |
-| [AI-AGENT-Skills](https://github.com/echohaoran/AI-AGENT-Skills) | Common skills for AI agents |
-| [Chaos_Builder](https://github.com/echohaoran/Chaos_Builder) | Text-to-graphic / graphic-to-graphic web app |
-| [touchpad-gesture-customization](https://github.com/echohaoran/touchpad-gesture-customization) | GNOME Wayland touchpad gesture extension |
-| [my-blog](https://github.com/echohaoran/my-blog) | Personal blog |
 
 ## Stats
 
@@ -53,7 +52,7 @@ I build AI agents, CLIs, and the occasional desktop toy — then go begging for 
 <p align="center">
   <a href="https://github.com/echohaoran"><img src="https://img.shields.io/badge/GitHub-echohaoran-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://gitee.com/echohaoran"><img src="https://img.shields.io/badge/Gitee-echohaoran-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee" /></a>
-  <a href="https://blog.echohaoran.top"><img src="https://img.shields.io/badge/Blog-blog.echohaoran.top-7AA2F7?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" /></a>
+  <a href="https://x.com/echohaoran_1130"><img src="https://img.shields.io/badge/X-echohaoran__1130-1D9BF0?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://t.me/echohaoran"><img src="https://img.shields.io/badge/Telegram-echohaoran-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:echohaoran@gmail.com"><img src="https://img.shields.io/badge/Gmail-echohaoran-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="mailto:whr2211204@gmail.com"><img src="https://img.shields.io/badge/Gmail-whr2211204-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>

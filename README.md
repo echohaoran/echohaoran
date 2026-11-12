@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- cats-ascii: sampled grid + diagonal glint, same trick as alma.now -->
-<img src="assets/cat-ascii.gif" alt="ASCII cat" width="420" />
-
-</div>
-
-<div align="center">
-
 <img src="assets/header.svg" alt="Echo Haoran" width="850" />
 
 <sub>FDE 专家&nbsp;&nbsp;//&nbsp;&nbsp;AIOps 专家</sub>

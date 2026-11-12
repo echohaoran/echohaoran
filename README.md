@@ -16,13 +16,34 @@
 
 <div align="center">
 
-<a href="https://blog.echohaoran.top"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-00F7FF?style=for-the-badge&logo=rss&logoColor=0a0a2e" alt="博客" /></a>
-
-<a href="https://echohaoran.top"><img src="https://img.shields.io/badge/%E5%AF%BC%E8%88%AA%E9%A1%B5-BB9AF7?style=for-the-badge&logo=googlechrome&logoColor=0a0a2e" alt="导航页" /></a>
-
-<a href="https://news.echohaoran.top"><img src="https://img.shields.io/badge/%E6%96%B0%E9%97%BB-7DCFFF?style=for-the-badge&logo=googlenews&logoColor=0a0a2e" alt="新闻" /></a>
-
-<a href="https://x.com/echohaoran_1130"><img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=0a0a2e" alt="X" /></a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://blog.echohaoran.top"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-00F7FF?style=for-the-badge&logo=rss&logoColor=0a0a2e" alt="博客" /></a>
+    </td>
+    <td align="center">
+      <a href="https://echohaoran.top"><img src="https://img.shields.io/badge/%E5%AF%BC%E8%88%AA%E9%A1%B5-BB9AF7?style=for-the-badge&logo=googlechrome&logoColor=0a0a2e" alt="导航页" /></a>
+    </td>
+    <td align="center">
+      <a href="https://news.echohaoran.top"><img src="https://img.shields.io/badge/%E6%96%B0%E9%97%BB-7DCFFF?style=for-the-badge&logo=googlenews&logoColor=0a0a2e" alt="新闻" /></a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/echohaoran_1130"><img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=0a0a2e" alt="X" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></td>
+  </tr>
+</table>
 
 </div>
 

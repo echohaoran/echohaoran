@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/header_cn.svg" alt="Echo Haoran" width="850" />
+<img src="assets/header.svg" alt="Echo Haoran" width="850" />
+
+<sub>开源叫花子&nbsp;&nbsp;·&nbsp;&nbsp;全栈&nbsp;&nbsp;·&nbsp;&nbsp;AI 工具</sub>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=%E4%BD%A0%E5%A5%BD%20%F0%9F%91%8B%EF%BC%8C%E6%88%91%E6%98%AF%20Echo%20Haoran;%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%A7%E5%B8%88%EF%BC%8C%E6%B0%B8%E8%BF%9C%E9%83%BD%E6%9C%89%E4%B8%80%E9%A2%97%E5%AD%A6%E5%BE%92%E7%9A%84%E5%BF%83;%E5%BC%80%E6%BA%90%E5%8F%AB%E8%8A%B1%E5%AD%90%20%C2%B7%20%E6%B0%B8%E8%BF%9C%E5%9C%A8%20Hack;%E8%A1%8C%E8%A1%8C%E5%A5%BD%EF%BC%8C%E8%B5%8F%E4%B8%AA%20Star%20%E2%AD%90)](https://github.com/echohaoran)
 

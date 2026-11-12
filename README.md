@@ -2,6 +2,8 @@
 
 <img src="assets/header.svg" alt="Echo Haoran" width="850" />
 
+<sub>OPEN SOURCE BEGGAR&nbsp;&nbsp;·&nbsp;&nbsp;FULL-STACK&nbsp;&nbsp;·&nbsp;&nbsp;AI TOOLING</sub>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I%27m+Echo+Haoran;A+true+master+always+has+the+heart+of+an+apprentice;Open+source+beggar+%C2%B7+always+hacking;Kind+folks%2C+spare+a+Star+%E2%AD%90)](https://github.com/echohaoran)
 
 <a href="https://github.com/echohaoran/echohaoran/blob/main/README.md">English</a>
